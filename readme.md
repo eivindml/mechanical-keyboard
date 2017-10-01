@@ -27,7 +27,7 @@ The keycaps are a 62-key custom iso set from wasdkeyboards. Custom sets can be o
 
 The font used for the keycaps is Apple's **San Fransisco Mono**. Make sure to install that if you wish to use or modify the labels.
 
-![Imgur](https://i.imgur.com/IY8glyQ.gif)
+![Imgur](http://i.imgur.com/IY8glyQ.gif)
 
 ## Roadmap
 
