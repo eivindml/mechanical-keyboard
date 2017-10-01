@@ -1,4 +1,4 @@
-<center>![Github readme banner/logo](github.png)</center>
+![Github readme banner](github.png)
 
 # mechanical keyboard
 ---
