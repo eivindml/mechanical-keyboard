@@ -1,4 +1,4 @@
-![Github readme banner](github.png)
+![Github readme banner](github/github.png)
 
 A carpenter cares about the quality of his tools. As a programmer (a person that builds digital stuff), I think it is important to care about the tools I use daily. And the keyboard is the main interface for all the work I do, and I spend a lot of time typing on it. Therefor I wanted to create what I think is the perfect tool for the work I do.
 
@@ -23,11 +23,11 @@ The 🦊 is my spirit emoji, so I had to add that to the escape key. I chose to 
 
 #### Custom keycaps set
 
-The keycaps are a 62-key custom iso set from wasdkeyboards. Custom sets can be ordered [here](http://www.wasdkeyboards.com/index.php/products/keycap-set/62-key-cherry-mx-keycap-set.html). The keys are set to the darkest gray, and then the modifiers are set to black. The key-layout file is the `layout.ai` file. Feel free to use this diretly or modify it to your needs.
+The keycaps are a 62-key custom iso set from wasdkeyboards. Custom sets can be ordered [here](http://www.wasdkeyboards.com/index.php/products/keycap-set/62-key-cherry-mx-keycap-set.html). The keys are set to the darkest gray, and then the modifiers are set to black. The key-layout file is the `keyboard-layout.ai` file. Feel free to use this diretly or modify it to your needs.
 
 The font used for the keycaps is Apple's **San Fransisco Mono**. Make sure to install that if you wish to use or modify the labels.
 
-![Process](build.gif)
+![Process](github/build.gif)
 
 ## Roadmap
 
