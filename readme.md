@@ -6,6 +6,12 @@ In this repo you will find information and resources related to my build, so you
 
 ## About
 
+The philosophy behind the keyboard was to have a minimalist and natural look. Therefor I went for a wooden case, and the black and dark grey keys. The letter keys, A–Å, are the only keys extra visible in white, while modifier keys and special characters are subdued with black on gray or gray on black. I chose a small SF Mono font for the keycaps, as I like the aesthetics of mono spaced fonts (maybe because I'm a programmer 🤓).
+
+The 🦊 is my spirit emoji, so I had to add that to the escape key. I chose to replace the arrow keys with media keys (as I use those a lot on my MacBook), and to force more vim style movement (this has proven to be difficult).
+
+### Details
+
 | Part  | Type | Link |
 | ------------- | ------------- | ------------- |
 | PCB  | Satan GH60 | [Aliexpress](https://www.aliexpress.com/item/Free-shipping-GH60-PCB-KC60-SE-Fully-Programmable-For-DIY-Mechanical-Keyboard-Poker-Faceu-HHKB-Support/32799437588.html?spm=a2g0s.9042311.0.0.MyCpfY)  |
@@ -20,6 +26,13 @@ In this repo you will find information and resources related to my build, so you
 The keycaps are a 62-key custom iso set from wasdkeyboards. Custom sets can be ordered [here](http://www.wasdkeyboards.com/index.php/products/keycap-set/62-key-cherry-mx-keycap-set.html). The keys are set to the darkest gray, and then the modifiers are set to black. The key-layout file is the `layout.ai` file. Feel free to use this diretly or modify it to your needs.
 
 The font used for the keycaps is Apple's **San Fransisco Mono**. Make sure to install that if you wish to use or modify the labels.
+
+![Imgur](https://i.imgur.com/IY8glyQ.gif)
+
+## Roadmap
+
+- [ ] Create custom sleeved (maybe coiled) usb cable. Will post on [/r/pcsleeving](https://www.reddit.com/r/PCSleeving/) when done
+- [ ] Properly program the keyboard with custom programming
 
 ## External links
 
