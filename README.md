@@ -1,8 +1,35 @@
-![Github readme banner](github/github.png)
+![Github readme banner](.github/github.png)
 
+<p align="center">
+
+<a href="license">
+<img alt="License" src="https://img.shields.io/github/license/eivindml/mechanical-keyboard.svg">
+</a>
+
+<a href="https://www.paypal.me/eivindml">
+<img alt="Donate" src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
+</a>
+
+<br />
+<br />
+</p>
+
+<p align="center">
 A carpenter cares about the quality of his tools. As a programmer (a person that builds digital stuff), I think it is important to care about the tools I use daily. And the keyboard is the main interface for all the work I do, and I spend a lot of time typing on it. Therefor I wanted to create what I think is the perfect tool for the work I do.
 
 In this repo you will find information and resources related to my build, so you can use them for inspiration or whatever you feel like.
+<br />
+<br />
+</p>
+
+## Table of Contents
+
+- [Mechanical Keyboard](#)
+    - [Table of Contents](#table-of-contents)
+    - [About](#about)
+        - [Details](#details)
+    - [External link](#external-links)
+    - [License](#license)
 
 ## About
 
@@ -27,12 +54,7 @@ The keycaps are a 62-key custom iso set from wasdkeyboards. Custom sets can be o
 
 The font used for the keycaps is Apple's **San Fransisco Mono**. Make sure to install that if you wish to use or modify the labels.
 
-![Process](github/build.gif)
-
-## Roadmap
-
-- [ ] Create custom sleeved (maybe coiled) usb cable. Will post on [/r/pcsleeving](https://www.reddit.com/r/PCSleeving/) when done
-- [ ] Properly program the keyboard with custom programming
+![Process](.github/build.gif)
 
 ## External links
 
@@ -41,4 +63,4 @@ The font used for the keycaps is Apple's **San Fransisco Mono**. Make sure to in
 
 ## Licensing
 
-MIT.
+[MIT](license) © [Eivind Lindbråten](http://madebymist.com)
